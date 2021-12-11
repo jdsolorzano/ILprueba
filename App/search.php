@@ -1,5 +1,5 @@
 <?php 
-    $host = 'localhost';  // Se realiza la conexión a la base de datos
+    $host = 'localhost';  // Se realiza la conexión a la base de datos..
     $bd = 'ingelogi';
     $user = 'root';
     $password = '';
